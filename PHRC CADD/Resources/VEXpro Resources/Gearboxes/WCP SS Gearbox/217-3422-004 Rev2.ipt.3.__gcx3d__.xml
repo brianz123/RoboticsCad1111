@@ -1,0 +1,44 @@
+<!--Version 9.1-->
+<Root>
+    <ModelFile Name="217-3422-004 Rev2" ModellerType="30" Unit="10" UnitFromCAD="1" VM="9" Vm="1">
+        <ProductOccurence Id="1" Name="217-3422-004 Rev2.ipt" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\4523711592045077\217-3422-004 Rev2.ipt" OriginalFilePath="C:\Users\smiku\GrabCAD\Power Hawks CAD\VEXpro Resources\Gearboxes\217-3422-004 Rev2.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="0" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3422-004 Rev2" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="21.8404" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="102.68" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="21.8404" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+    </ModelFile>
+</Root>

@@ -1,0 +1,636 @@
+<!--Version 9.1-->
+<Root>
+    <ModelFile Name="217-3422-STEP" ModellerType="18" Unit="25.4" UnitFromCAD="1" VM="9" Vm="1">
+        <ProductOccurence Id="3" Name="217-2614-002_98430A132" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-2614-002_98430A132" Layer="38" Style="9" Behaviour="1">
+                <RepItemID Name="CirPattern1" Layer="38" Style="9" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="2" InstanceRef="3" Name="217-2614-002_98430A132" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.7755575615628898e-017 2.6367796834847453e-016 -1 0 -0.078110679867712959 0.99694469339607983 2.6070434442901467e-016 0 0.99694469339607983 0.078110679867712959 4.8266839195991506e-017 0 -0.0012508074614466713 1.5519994959666368 0.24748031496063028 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="5" Name="217-3422-002 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3422-002 Rev1" Layer="6" Style="2" Behaviour="1">
+                <RepItemID Name="Boss-Extrude1" Layer="6" Style="2" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="4" InstanceRef="5" Name="217-3422-002 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 1.4955958432485188 0.42589454482843264 1.375 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="7" Name="217-2000" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-2000" Layer="68" Style="9" Behaviour="1">
+                <RepItemID Name="Chamfer3" Layer="68" Style="9" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="6" InstanceRef="7" Name="217-2000" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="3.1306461895107308e-018 1.6650402473697946e-016 -1 0 -0.05312356696987143 0.9985879463684697 1.6610260103167774e-016 0 0.9985879463684697 0.05312356696987143 1.1971513258057852e-017 0 -1.4424722762786475 -0.57269340154003712 -6.3658301269267859e-017 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="9" Name="217-3421-009 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3421-009 Rev1" Layer="44" Style="7" Behaviour="1">
+                <RepItemID Name="Cut-Extrude2" Layer="44" Style="7" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="8" InstanceRef="9" Name="217-3421-009 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-9.6841815231977534e-017 2.883582890391177e-017 -1 0 0.85311937284922978 -0.52171576137714759 -9.7661735107831149e-017 0 -0.52171576137714759 -0.85311937284922978 2.5923497096803306e-017 0 -1.3893487093087762 -1.5712813479085064 0.25 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="11" Name="217-3257-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3257-001 Rev1" Layer="13" Style="5" Behaviour="1">
+                <RepItemID Name="Boss-Extrude1" Layer="13" Style="5" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="10" InstanceRef="11" Name="217-3257-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 -8.4836685740745672e-017 -1.8520000000000001 2.5312500000000004 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="13" Name="217-3261-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3261-001 Rev1" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Boss-Extrude1" Layer="21" Style="5" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="12" InstanceRef="13" Name="217-3261-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 -1.4726368090846418e-016 -1.8520000000000003 0.56249999999999978 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="15" Name="217-3422-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3422-001 Rev1" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Boss-Extrude3" Layer="80" Style="1" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="14" InstanceRef="15" Name="217-3422-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.99441013131491918 -0.10558641360632172 5.7697944020511011e-016 0 0.10558641360632172 0.99441013131491918 5.5182466356662885e-017 0 -5.7958071961692363e-016 6.0471861998304762e-018 1 0 7.9922535368833666e-017 -1.7861874663811108e-017 1.3750000000000002 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="17" Name="217-3422-006 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3422-006 Rev1" Layer="43" Style="7" Behaviour="1">
+                <RepItemID Name="Cut-Extrude2" Layer="43" Style="7" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="16" InstanceRef="17" Name="217-3422-006 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-2.7755575615628895e-017 7.7037197775489434e-033 -1 0 -0.27560510545180228 -0.96127094299625071 7.6495783444208663e-018 0 -0.96127094299625071 0.27560510545180228 2.6680628345439332e-017 0 1.496529423675016 0.42553617687888723 2.75 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="19" Name="217-3099-001_12t" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3099-001_12t" Layer="18" Style="7" Behaviour="1">
+                <RepItemID Name="CirPattern1" Layer="18" Style="7" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="18" InstanceRef="19" Name="217-3099-001_12t" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.9985879463684697 -0.053123566969871479 0 0 0.053123566969871479 0.9985879463684697 -0 0 0 0 1.0000000000000002 0 1.4424722762786468 -0.57269340154003667 0.62248031496063017 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="20" InstanceRef="3" Name="217-2614-002_98430A132" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.7755575615628914e-017 2.6367796834847453e-016 -1 0 -0.078110679867712932 0.99694469339607983 2.6070434442901467e-016 0 0.99694469339607983 0.078110679867712932 4.8266839195991513e-017 0 1.4424722762786475 -0.57269340154003601 0.24748031496062975 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="22" Name="217-3422-003 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3422-003 Rev1" Layer="2" Style="10" Behaviour="1">
+                <RepItemID Name="Boss-Extrude1" Layer="2" Style="10" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="21" InstanceRef="22" Name="217-3422-003 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 -2.25 -1.8520000000000001 1.3749999999999991 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="23" InstanceRef="7" Name="217-2000" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.4160227248392053e-017 2.7728471907460628e-016 -1 0 0.99874919253855199 -0.050000504033363508 1.0265631741399567e-017 0 -0.050000504033363508 -0.99874919253855199 -2.7814591281902249e-016 0 -0.0012508074614484299 1.5519994959666368 2.3649160962955726e-016 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="25" Name="217-3421-010 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3421-010 Rev1" Layer="81" Style="8" Behaviour="1">
+                <RepItemID Name="Cut-Revolve4" Layer="81" Style="8" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <RepItemID Name="Revolve2" Layer="19" Style="8" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="24" InstanceRef="25" Name="217-3421-010 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.60816071068656785 -0.79381392654526339 -4.8983344730030276e-017 0 -9.9749400476286139e-017 -1.4714180695998352e-017 -1 0 0.79381392654526339 0.60816071068656785 -8.8131049851865601e-017 0 2.2500000000000004 -1.8520000000000001 -5.9738914284489333e-016 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="27" Name="217-2731" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-2731" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Revolve1" Layer="11" Style="3" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="26" InstanceRef="27" Name="217-2731" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.75118222680288538 -0.66009488873605016 8.6736173798840367e-017 0 -1.0190731385164201e-017 1.1980259028456823e-016 1 0 -0.66009488873605016 -0.75118222680288538 8.3266726846886753e-017 0 3.469446951953615e-018 -1.8520000000000001 -3.414809992080329e-017 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="29" Name="217-3263-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3263-001 Rev1" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Boss-Extrude1" Layer="22" Style="5" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="28" InstanceRef="29" Name="217-3263-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.76291823404873294 -0.64649498695346663 0 0 0.64649498695346663 0.76291823404873294 -0 0 0 0 1.0000000000000002 0 0 -1.8520000000000001 3.0625000000000004 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="31" Name="217-3422-004 Rev2" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3422-004 Rev2" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Chamfer1" Layer="65" Style="2" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="30" InstanceRef="31" Name="217-3422-004 Rev2" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 6.829619984160658e-017 -1.8520000000000005 3.8125000000000004 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="32" InstanceRef="17" Name="217-3422-006 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-2.7755575615628895e-017 7.7037197775489434e-033 -1 0 -0.27560510545180228 -0.96127094299625071 7.6495783444208663e-018 0 -0.96127094299625071 0.27560510545180228 2.6680628345439332e-017 0 -1.4965294236750155 0.42553617687888706 2.75 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="33" InstanceRef="19" Name="217-3099-001_12t" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-0.050000504033363244 -0.99874919253855199 0 0 0.99874919253855199 -0.050000504033363244 0 0 0 0 1 0 -0.0012508074614479966 1.5519994959666368 0.62248031496063017 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="34" InstanceRef="3" Name="217-2614-002_98430A132" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.7755575615628914e-017 2.6367796834847453e-016 -1 0 -0.078110679867712932 0.99694469339607983 2.6070434442901467e-016 0 0.99694469339607983 0.078110679867712932 4.8266839195991513e-017 0 -1.4424722762786475 -0.57269340154003712 0.24748031496062969 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="35" InstanceRef="22" Name="217-3422-003 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.85316166624992362 0.52164659611815178 -0 0 -0.52164659611815178 0.85316166624992362 0 0 0 0 1.0000000000000002 0 2.25 -1.8520000000000001 1.3749999999999998 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="36" InstanceRef="7" Name="217-2000" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.6599699006904756e-018 1.1099043293998769e-016 -1 0 0.053123566969871569 0.9985879463684697 1.1097501558524684e-016 0 0.9985879463684697 -0.053123566969871569 -3.239993816770031e-018 0 1.442472276278647 -0.57269340154003656 7.5824013558552595e-033 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="37" InstanceRef="25" Name="217-3421-010 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.60816071068656785 -0.79381392654526339 -4.8983344730030276e-017 0 -9.9749400476286139e-017 -1.4714180695998352e-017 -1 0 0.79381392654526339 0.60816071068656785 -8.8131049851865601e-017 0 -2.25 -1.8519999999999999 -1.0244429976240987e-016 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="39" Name="217-2733" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-2733" Layer="35" Style="9" Behaviour="1">
+                <RepItemID Name="Revolve1" Layer="35" Style="9" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="38" InstanceRef="39" Name="217-2733" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.8094704770776062e-016 -1.2250113032319293e-017 -1 0 0.20361605732038429 0.9790508164550511 4.5211847004097259e-017 0 0.9790508164550511 -0.20361605732038429 2.7755575615628914e-016 0 0 0 0.31250000000000083 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="41" Name="217-2761-001 rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-2761-001 rev1" Layer="66" Style="9" Behaviour="1">
+                <RepItemID Name="Fillet1" Layer="66" Style="9" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="40" InstanceRef="41" Name="217-2761-001 rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.050000504033363508 0.9987491925385521 -1.0278488151071334e-017 0 -0.9987491925385521 0.050000504033363508 -1.0265631741399569e-017 0 -9.7388618243664287e-018 1.0778918502690444e-017 1.0000000000000002 0 0.14816836307581496 1.5445191055994407 0.63385826771653553 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="42" InstanceRef="9" Name="217-3421-009 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-9.6841815231977534e-017 2.883582890391177e-017 -1 0 0.85311937284922978 -0.52171576137714759 -9.7661735107831149e-017 0 -0.52171576137714759 -0.85311937284922978 2.5923497096803306e-017 0 1.3893487093087764 -1.5712813479085066 0.25000000000000006 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="44" Name="217-3422-007 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3422-007 Rev1" Layer="58" Style="7" Behaviour="1">
+                <RepItemID Name="Cut-Extrude2" Layer="58" Style="7" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="43" InstanceRef="44" Name="217-3422-007 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.3794594665714077e-016 1.3764995767283219e-016 1 0 -0.45505906520595496 0.89046125529069631 -1.429249404471687e-017 0 -0.89046125529069631 -0.45505906520595496 2.7452050741588892e-016 0 0.9375 -1.8520000000000003 3.7480034304142134 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="46" Name="217-3100-001_14t" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3100-001_14t" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Cut-Extrude2" Layer="48" Style="11" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="45" InstanceRef="46" Name="217-3100-001_14t" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.91397764230250045 0.40576454917989402 -0 0 -0.40576454917989402 0.91397764230250045 0 0 0 0 1 0 8.8720340906790796e-016 -2.2817077405082341e-016 1.0605 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="47" InstanceRef="3" Name="217-2614-002_98430A132" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.7755575615628898e-017 2.6367796834847453e-016 -1 0 -0.078110679867712959 0.99694469339607983 2.6070434442901467e-016 0 0.99694469339607983 0.078110679867712959 4.8266839195991506e-017 0 -1.4424722762786477 -0.57269340154003712 1.0394803149606295 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="48" InstanceRef="11" Name="217-3257-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 -1.5593409690398066e-016 -1.8520000000000003 1.3692500000000001 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="50" Name="217-3421-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3421-001 Rev1" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Fillet68" Layer="67" Style="0" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="49" InstanceRef="50" Name="217-3421-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="52" Name="217-3421-011 Rev2_97633A200" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3421-011 Rev2_97633A200" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Fillet1" Layer="25" Style="9" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="51" InstanceRef="52" Name="217-3421-011 Rev2_97633A200" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="8.6736173798840393e-019 6.0185310762101103e-034 -1 0 -0.24487192118565612 0.96955543534902944 -2.1239253514414959e-019 0 0.96955543534902944 0.24487192118565612 8.4095528748043798e-019 0 2.6172640443800085e-018 -1.8520000000000001 -0.017500000000000019 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="53" InstanceRef="39" Name="217-2733" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-5.700935418275734e-016 -5.3563352199434626e-018 1 0 -0.63438697171016345 0.77301563381629512 -3.5751938472653851e-016 0 -0.77301563381629512 -0.63438697171016345 -4.4408920985006262e-016 0 -1.4088516799543996e-016 -5.29412483882878e-017 2.4375 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="54" InstanceRef="41" Name="217-2761-001 rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.9985879463684697 0.053123566969871305 3.944304526105059e-031 0 -0.053123566969871305 0.9985879463684697 1.661026010316774e-016 0 8.8239626497757346e-018 -1.6586805525068402e-016 1 0 -1.4504198965339825 -0.42329835444554187 0.63385826771653553 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="55" InstanceRef="44" Name="217-3422-007 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.3254808043062941e-016 1.4768219416161358e-016 1 0 -0.49236888983172955 0.87038662462486771 -1.4041166299392444e-017 0 -0.87038662462486771 -0.49236888983172955 2.751208567762754e-016 0 -0.93750000000000022 -1.8520000000000003 3.7480034304142134 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="57" Name="217-2711-002 Rev1_50t" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-2711-002 Rev1_50t" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Boss-Extrude2" Layer="7" Style="10" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="56" InstanceRef="57" Name="217-2711-002 Rev1_50t" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-0.21459049192515442 -0.97670411116945766 0 0 0.97670411116945766 -0.21459049192515442 0 0 0 0 1 0 7.4196427411961156e-018 -1.5091909031043546e-016 0.56149999999999989 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="58" InstanceRef="9" Name="217-3421-009 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-9.6841815231977534e-017 2.883582890391177e-017 -1 0 0.85311937284922978 -0.52171576137714759 -9.7661735107831149e-017 0 -0.52171576137714759 -0.85311937284922978 2.5923497096803306e-017 0 -1.0000000000000004 1.6020000000000003 0.24999999999999992 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="59" InstanceRef="3" Name="217-2614-002_98430A132" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.7755575615628898e-017 2.6367796834847453e-016 -1 0 -0.078110679867712959 0.99694469339607983 2.6070434442901467e-016 0 0.99694469339607983 0.078110679867712959 4.8266839195991506e-017 0 1.4424722762786468 -0.57269340154003667 1.0394803149606295 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="61" Name="217-2758-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-2758-001 Rev1" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Boss-Extrude1" Layer="76" Style="5" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="60" InstanceRef="61" Name="217-2758-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-0.35758014237102387 0.93388245608423248 0 0 -0.93388245608423248 -0.35758014237102387 0 0 0 0 1 0 -5.9759174861405757e-016 -1.8520000000000005 2.1850040000000011 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="63" Name="217-3421-002 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3421-002 Rev1" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Mirror1" Layer="14" Style="0" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="62" InstanceRef="63" Name="217-3421-002 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-1 1.1102230246251565e-016 0 0 1.1102230246251565e-016 1 0 0 0 0 -1 0 2.05613304160579e-016 -8.981188843347229e-017 2.75 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="65" Name="217-3422-005 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3422-005 Rev1" Layer="51" Style="7" Behaviour="1">
+                <RepItemID Name="Cut-Extrude2" Layer="51" Style="7" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="64" InstanceRef="65" Name="217-3422-005 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0 0 -1 0 -0.70976298827535156 -0.70444055851039933 -0 0 -0.70444055851039933 0.70976298827535156 0 0 2.25 -1.8520000000000003 2.875 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="67" Name="217-2734" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-2734" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Cut-Extrude1" Layer="60" Style="3" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="66" InstanceRef="67" Name="217-2734" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 0 0 -0 0 1 0 0 -1 0 0 0 -1.8520000000000001 3.5625000000000004 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="68" InstanceRef="41" Name="217-2761-001 rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.9985879463684697 -0.053123566969871444 -2.9351172352461474e-031 0 0.053123566969871444 0.9985879463684697 1.1097501558524657e-016 0 -5.8953886724250802e-018 -1.108183129114803e-016 1.0000000000000002 0 1.4504198965339823 -0.42329835444554159 0.63385826771653553 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="69" InstanceRef="5" Name="217-3422-002 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 -1.4955958432485188 0.42589454482843264 1.3749999999999998 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="71" Name="217-2714-002 Rev1_60t" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-2714-002 Rev1_60t" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Combine1" Layer="34" Style="10" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="70" InstanceRef="71" Name="217-2714-002 Rev1_60t" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.92095260705507931 -0.38967460214703836 0 0 0.38967460214703836 0.92095260705507931 -0 0 0 0 1 0 -1.1220191442617987e-017 -1.8520000000000001 1.0615000000000001 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="72" InstanceRef="9" Name="217-3421-009 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-9.6841815231977534e-017 2.883582890391177e-017 -1 0 0.85311937284922978 -0.52171576137714759 -9.7661735107831149e-017 0 -0.52171576137714759 -0.85311937284922978 2.5923497096803306e-017 0 0.99749838507710353 1.501998991933273 0.24999999999999992 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="73" InstanceRef="3" Name="217-2614-002_98430A132" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.7755575615628898e-017 2.6367796834847453e-016 -1 0 -0.078110679867712959 0.99694469339607983 2.6070434442901467e-016 0 0.99694469339607983 0.078110679867712959 4.8266839195991506e-017 0 -0.0012508074614480274 1.5519994959666368 1.0394803149606302 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="75" Name="217-3259-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3259-001 Rev1" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="Boss-Extrude1" Layer="74" Style="5" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="74" InstanceRef="75" Name="217-3259-001 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-0.35131724281772841 0.93625647922935584 0 0 -0.93625647922935584 -0.35131724281772841 0 0 0 0 1 0 -8.4836685740745672e-017 -1.8520000000000001 2.3725040000000011 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="77" Name="217-3421-004 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="4" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <PartDefinition Name="217-3421-004 Rev1" Layer="65535" Style="65535" Behaviour="1">
+                <RepItemID Name="1/4-20 Tapped Hole1" Layer="46" Style="11" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="76" InstanceRef="77" Name="217-3421-004 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-0.4144596420447344 0.91006769260102338 0 0 -0.91006769260102338 -0.4144596420447344 0 0 0 0 1.0000000000000002 0 2.6020852139652114e-018 -1.8520000000000001 3.5624999999999996 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="78" InstanceRef="65" Name="217-3422-005 Rev1" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0 0 -1 0 -0.70976298827535156 -0.70444055851039933 -0 0 -0.70444055851039933 0.70976298827535156 0 0 -2.25 -1.8519999999999999 2.875 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="79" InstanceRef="19" Name="217-3099-001_12t" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" ModellerType="18" ProductLoadStatus="0" ProductFlag="2" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.9985879463684697 0.053123566969871382 -0 0 -0.053123566969871382 0.9985879463684697 0 0 0 0 1.0000000000000002 0 -1.4424722762786477 -0.57269340154003701 0.62248031496063017 1" />
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+        <ProductOccurence Id="1" Name="217-3422-STEP" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\0535312492388535\217-3422-STEP.STEP" Children="2 4 6 8 10 12 14 16 18 20 21 23 24 26 28 30 32 33 34 35 36 37 38 40 42 43 45 47 48 49 51 53 54 55 56 58 59 60 62 64 66 68 69 70 72 73 74 76 78 79" ModellerType="18" ProductLoadStatus="0" ProductFlag="0" Unit="25.4" DensityVolumeUnit="1" DensityMassUnit="1" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="__PRC_RESERVED_ATTRIBUTE_LayersList">
+                <UserValue Type="Int" Value="1" />
+                <UserValue Type="Int" Value="2" />
+                <UserValue Type="Int" Value="3" />
+                <UserValue Type="Int" Value="4" />
+                <UserValue Type="Int" Value="5" />
+                <UserValue Type="Int" Value="6" />
+                <UserValue Type="Int" Value="7" />
+                <UserValue Type="Int" Value="8" />
+                <UserValue Type="Int" Value="9" />
+                <UserValue Type="Int" Value="10" />
+                <UserValue Type="Int" Value="11" />
+                <UserValue Type="Int" Value="12" />
+                <UserValue Type="Int" Value="13" />
+                <UserValue Type="Int" Value="14" />
+                <UserValue Type="Int" Value="15" />
+                <UserValue Type="Int" Value="16" />
+                <UserValue Type="Int" Value="17" />
+                <UserValue Type="Int" Value="18" />
+                <UserValue Type="Int" Value="19" />
+                <UserValue Type="Int" Value="20" />
+                <UserValue Type="Int" Value="21" />
+                <UserValue Type="Int" Value="22" />
+                <UserValue Type="Int" Value="23" />
+                <UserValue Type="Int" Value="24" />
+                <UserValue Type="Int" Value="25" />
+                <UserValue Type="Int" Value="26" />
+                <UserValue Type="Int" Value="27" />
+                <UserValue Type="Int" Value="28" />
+                <UserValue Type="Int" Value="29" />
+                <UserValue Type="Int" Value="30" />
+                <UserValue Type="Int" Value="31" />
+                <UserValue Type="Int" Value="32" />
+                <UserValue Type="Int" Value="33" />
+                <UserValue Type="Int" Value="34" />
+                <UserValue Type="Int" Value="35" />
+                <UserValue Type="Int" Value="36" />
+                <UserValue Type="Int" Value="37" />
+                <UserValue Type="Int" Value="38" />
+                <UserValue Type="Int" Value="39" />
+                <UserValue Type="Int" Value="40" />
+                <UserValue Type="Int" Value="41" />
+                <UserValue Type="Int" Value="42" />
+                <UserValue Type="Int" Value="43" />
+                <UserValue Type="Int" Value="44" />
+                <UserValue Type="Int" Value="45" />
+                <UserValue Type="Int" Value="46" />
+                <UserValue Type="Int" Value="47" />
+                <UserValue Type="Int" Value="48" />
+                <UserValue Type="Int" Value="49" />
+                <UserValue Type="Int" Value="50" />
+                <UserValue Type="Int" Value="51" />
+                <UserValue Type="Int" Value="52" />
+                <UserValue Type="Int" Value="53" />
+                <UserValue Type="Int" Value="54" />
+                <UserValue Type="Int" Value="55" />
+                <UserValue Type="Int" Value="56" />
+                <UserValue Type="Int" Value="57" />
+                <UserValue Type="Int" Value="58" />
+                <UserValue Type="Int" Value="59" />
+                <UserValue Type="Int" Value="60" />
+                <UserValue Type="Int" Value="61" />
+                <UserValue Type="Int" Value="62" />
+                <UserValue Type="Int" Value="63" />
+                <UserValue Type="Int" Value="64" />
+                <UserValue Type="Int" Value="65" />
+                <UserValue Type="Int" Value="66" />
+                <UserValue Type="Int" Value="67" />
+                <UserValue Type="Int" Value="68" />
+                <UserValue Type="Int" Value="69" />
+                <UserValue Type="Int" Value="70" />
+                <UserValue Type="Int" Value="71" />
+                <UserValue Type="Int" Value="72" />
+                <UserValue Type="Int" Value="73" />
+                <UserValue Type="Int" Value="74" />
+                <UserValue Type="Int" Value="75" />
+                <UserValue Type="Int" Value="76" />
+                <UserValue Type="Int" Value="77" />
+                <UserValue Type="Int" Value="78" />
+                <UserValue Type="Int" Value="79" />
+                <UserValue Type="Int" Value="80" />
+                <UserValue Type="Int" Value="81" />
+                <UserValue Type="Int" Value="82" />
+                <UserValue Type="Int" Value="83" />
+                <UserValue Type="Int" Value="84" />
+                <UserValue Type="Int" Value="85" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+    </ModelFile>
+</Root>

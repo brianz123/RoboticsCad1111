@@ -1,0 +1,2131 @@
+<!--Version 9.1-->
+<Root>
+    <ModelFile Name="217-3421-STEP" ModellerType="30" Unit="10" UnitFromCAD="1" VM="9" Vm="1">
+        <ProductOccurence Id="3" Name="217-2731" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-2731.ipt" OriginalFilePath="H:\217-2731.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="0" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:47" />
+                <UserValue Title="Keywords" Type="String" Value="217-2731" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="4.18941" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="23.6252" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="4.18941" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="2" InstanceRef="3" Name="217-2731_1" PersistentId="1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.75118222680288538 -0.66009488873605016 8.6736173798840392e-017 0 -1.0190731385164213e-017 1.1980259028456826e-016 1 0 -0.66009488873605016 -0.75118222680288538 8.3266726846886753e-017 0 8.8123952579621817e-018 -4.7040800000000003 -8.6736173798840355e-017 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:47" />
+                <UserValue Title="Keywords" Type="String" Value="217-2731" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="4.18941" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="23.6252" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="4.18941" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="5" Name="217-2733" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-2733.ipt" OriginalFilePath="H:\217-2733.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="3" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:47" />
+                <UserValue Title="Keywords" Type="String" Value="217-2733" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="2.32255" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="15.6926" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="2.32255" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="4" InstanceRef="5" Name="217-2733_2" PersistentId="2" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.8094704770776062e-016 -1.2250113032319293e-017 -1 0 0.20361605732038429 0.9790508164550511 4.5211847004097259e-017 0 0.9790508164550511 -0.20361605732038429 2.7755575615628914e-016 0 0 0 0.79375000000000218 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:47" />
+                <UserValue Title="Keywords" Type="String" Value="217-2733" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="2.32255" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="15.6926" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="2.32255" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="6" InstanceRef="5" Name="217-2733_3" PersistentId="3" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-5.700935418275734e-016 -5.3563352199434626e-018 1 0 -0.63438697171016345 0.77301563381629512 -3.5751938472653851e-016 0 -0.77301563381629512 -0.63438697171016345 -4.4408920985006262e-016 0 2.467470672229413e-016 -1.7624790515924363e-017 3.3337500000000007 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:47" />
+                <UserValue Title="Keywords" Type="String" Value="217-2733" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="2.32255" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="15.6926" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="2.32255" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="8" Name="217-2734" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-2734.ipt" OriginalFilePath="H:\217-2734.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="0" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:47" />
+                <UserValue Title="Keywords" Type="String" Value="217-2734" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="4.07545" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="23.6819" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="4.07545" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="7" InstanceRef="8" Name="217-2734_4" PersistentId="4" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.4436950830350509 -0.89617781343353919 1.595945597898662e-016 0 -3.8104717395036566e-018 -1.7997014091075684e-016 -1 0 0.89617781343353919 0.4436950830350509 -8.3266726846886753e-017 0 -4.406197628981087e-018 -4.7040800000000003 4.1275000000000004 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:47" />
+                <UserValue Title="Keywords" Type="String" Value="217-2734" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="4.07545" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="23.6819" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="4.07545" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="10" Name="217-2614-001_12t" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-2614-001_12t.ipt" OriginalFilePath="H:\217-2614-001_12t.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="7" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-001_12t" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="9" InstanceRef="10" Name="217-2614-001_12t_5" PersistentId="5" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.9985879463684697 0.053123566969871555 0 0 -0.053123566969871555 0.9985879463684697 0 0 0 -0 1.0000000000000002 0 -3.6638795817477647 -1.4546412399116948 1.5785599999999997 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-001_12t" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="11" InstanceRef="10" Name="217-2614-001_12t_6" PersistentId="6" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.9985879463684697 -0.053123566969871819 0 0 0.053123566969871819 0.9985879463684697 0 0 -0 0 1.0000000000000002 0 3.663879581747763 -1.4546412399116937 1.5785599999999997 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-001_12t" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="12" InstanceRef="10" Name="217-2614-001_12t_7" PersistentId="7" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-0.050000504033363258 -0.99874919253855199 -3.1874239410579361e-016 0 0.99874919253855199 -0.050000504033363258 -1.5520369179049745e-017 0 -4.3632417661443382e-019 -3.1911973502270267e-016 1 0 -0.0031770509520792139 3.9420787197552563 1.5785600000000013 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-001_12t" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="14" Name="217-3100-001_14t" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3100-001_14t.ipt" OriginalFilePath="H:\217-3100-001_14t.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="8" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:47" />
+                <UserValue Title="Keywords" Type="String" Value="217-3100-001_14t" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="1.972" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="21.4008" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="1.972" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="13" InstanceRef="14" Name="217-3100-001_14t_8" PersistentId="8" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 -3.5249581031848696e-017 0 2.6936699999999996 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:47" />
+                <UserValue Title="Keywords" Type="String" Value="217-3100-001_14t" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="1.972" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="21.4008" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="1.972" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="16" Name="217-2711-002 Rev1_50t" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-2711-002 Rev1_50t.ipt" OriginalFilePath="H:\217-2711-002 Rev1_50t.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="10" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2711-002 Rev1_50t" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="29.6337" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="105.927" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="29.6337" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="15" InstanceRef="16" Name="217-2711-002 Rev1_50t_9" PersistentId="9" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.98639849655148615 -0.16437154863591139 0 0 0.16437154863591139 0.98639849655148615 0 0 -0 0 1 0 3.9838514934804362e-016 -8.3040453863021494e-016 1.4262099999999998 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2711-002 Rev1_50t" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="29.6337" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="105.927" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="29.6337" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="18" Name="217-2714-002 Rev1_60t" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-2714-002 Rev1_60t.ipt" OriginalFilePath="H:\217-2714-002 Rev1_60t.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="10" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2714-002 Rev1_60t" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="42.0599" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="141.596" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="42.0599" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="17" InstanceRef="18" Name="217-2714-002 Rev1_60t_10" PersistentId="10" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-0.52949516421118537 -0.84831295585825517 0 0 0.84831295585825517 -0.52949516421118537 0 0 0 0 1.0000000000000002 0 -6.9388939039072284e-016 -4.7040799999999985 2.7012899999999993 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2714-002 Rev1_60t" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="42.0599" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="141.596" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="42.0599" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="20" Name="217-2000" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-2000.ipt" OriginalFilePath="H:\217-2000.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="3" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2000" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="358.112" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="301.303" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="358.112" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="19" InstanceRef="20" Name="217-2000_11" PersistentId="11" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="3.1306461895107308e-018 1.6650402473697944e-016 -1 0 -0.053123566969871444 0.9985879463684697 1.6610260103167772e-016 0 0.9985879463684697 0.053123566969871444 1.1971513258057855e-017 0 -3.6638795817477634 -1.4546412399116935 -1.6169208522394034e-016 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2000" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="358.112" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="301.303" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="358.112" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="21" InstanceRef="20" Name="217-2000_12" PersistentId="12" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.4160227248392053e-017 2.7728471907460628e-016 -1 0 0.99874919253855199 -0.050000504033363508 1.0265631741399567e-017 0 -0.050000504033363508 -0.99874919253855199 -2.7814591281902249e-016 0 -0.0031770509520790118 3.9420787197552576 6.0068868845907544e-016 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2000" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="358.112" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="301.303" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="358.112" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="22" InstanceRef="20" Name="217-2000_13" PersistentId="13" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.659969900690543e-018 1.1099043293998771e-016 -1 0 0.05312356696987218 0.99858794636846959 1.1097501558524685e-016 0 0.99858794636846959 -0.05312356696987218 -3.2399938167700333e-018 0 3.6638795817477625 -1.4546412399116928 3.8518598887744717e-032 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2000" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="358.112" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="301.303" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="358.112" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="24" Name="217-3421-001 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-001 Rev1.ipt" OriginalFilePath="H:\217-3421-001 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="13" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-001 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="49.4452" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="309.352" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="49.4452" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="23" InstanceRef="24" Name="217-3421-001 Rev1_14" PersistentId="14" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-001 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="49.4452" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="309.352" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="49.4452" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="26" Name="217-3421-002 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-002 Rev1.ipt" OriginalFilePath="H:\217-3421-002 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="13" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-002 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="38.8901" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="246.042" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="38.8901" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="25" InstanceRef="26" Name="217-3421-002 Rev1_15" PersistentId="15" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-1 1.1102230246251565e-016 0 0 1.1102230246251565e-016 1 0 0 0 0 -1 0 5.2225779256787067e-016 -2.2812219662101962e-016 4.1275000000000022 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-002 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="38.8901" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="246.042" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="38.8901" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="28" Name="217-3421-003 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-003 Rev1.ipt" OriginalFilePath="H:\217-3421-003 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="8" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-003 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="27" InstanceRef="28" Name="217-3421-003 Rev1_16" PersistentId="16" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.72188887586717843 -0.69200899625598911 4.2257758141086713e-016 0 0.69200899625598911 0.72188887586717843 3.9670967558347959e-016 0 -5.7958071961692472e-016 6.0471861998266059e-018 1 0 1.1173952213103404e-015 -2.040032461726028e-017 2.0637500000000002 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-003 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="30" Name="217-3421-004 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-004 Rev1.ipt" OriginalFilePath="H:\217-3421-004 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="8" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-004 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="29" InstanceRef="30" Name="217-3421-004 Rev1_17" PersistentId="17" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.085938404860454093 -0.99630045195715966 0 0 0.99630045195715966 0.085938404860454093 0 0 -0 0 1 0 6.6092964434716374e-018 -4.7040800000000003 9.0487500000000001 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-004 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="32" Name="217-3421-005 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-005 Rev1.ipt" OriginalFilePath="H:\217-3421-005 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="13" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-005 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="31" InstanceRef="32" Name="217-3421-005 Rev1_18" PersistentId="18" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 -3.7988134418512378 1.0817721438642189 2.0637500000000002 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-005 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="33" InstanceRef="32" Name="217-3421-005 Rev1_19" PersistentId="19" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 3.7988134418512378 1.0817721438642189 2.0637500000000002 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-005 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="35" Name="217-3421-006 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-006 Rev1.ipt" OriginalFilePath="H:\217-3421-006 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="10" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-006 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="34" InstanceRef="35" Name="217-3421-006 Rev1_20" PersistentId="20" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 -0 0 -0 1 0 0 0 0 1 0 -5.7149999999999999 -4.7040800000000003 2.0637499999999984 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-006 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="36" InstanceRef="35" Name="217-3421-006 Rev1_21" PersistentId="21" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-0.69927959412143592 -0.71484827008628893 0 0 0.71484827008628893 -0.69927959412143592 0 0 0 0 1 0 5.7150000000000016 -4.7040800000000003 2.0637499999999998 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-006 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="38" Name="217-3261-001 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3261-001 Rev1.ipt" OriginalFilePath="H:\217-3261-001 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="20" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3261-001 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="37" InstanceRef="38" Name="217-3261-001 Rev1_22" PersistentId="22" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.99637611253012448 0.085056700966807175 0 0 -0.085056700966807175 0.99637611253012448 0 0 0 -0 1.0000000000000002 0 -8.6736173798840355e-017 -4.7040799999999994 1.4287499999999997 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3261-001 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="40" Name="217-3421-007 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-007 Rev1.ipt" OriginalFilePath="H:\217-3421-007 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="23" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-007 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="39" InstanceRef="40" Name="217-3421-007 Rev1_23" PersistentId="23" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-6.0130989765890555e-018 -4.0299912239406088e-018 -1 0 -0.29709897267328089 0.95484668949338736 -2.0615382503397294e-018 0 0.95484668949338736 0.29709897267328089 -6.9388939039072284e-018 0 5.714999999999999 -4.7040800000000011 4.4450000000000029 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-007 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="41" InstanceRef="40" Name="217-3421-007 Rev1_24" PersistentId="24" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-6.0130989765890555e-018 -4.0299912239406088e-018 -1 0 -0.29709897267328089 0.95484668949338736 -2.0615382503397294e-018 0 0.95484668949338736 0.29709897267328089 -6.9388939039072284e-018 0 -5.714999999999999 -4.7040799999999994 4.4449999999999985 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-007 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="43" Name="217-3421-008 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-008 Rev1.ipt" OriginalFilePath="H:\217-3421-008 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="23" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-008 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="42" InstanceRef="43" Name="217-3421-008 Rev1_25" PersistentId="25" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="5.1980509871654934e-017 -1.9737049580329199e-017 -1 0 0.40766419552203986 0.91313192020067302 3.1680627572717693e-018 0 0.91313192020067302 -0.40766419552203986 5.5511151231257827e-017 0 3.8011847361345406 1.0808618892723736 4.1275000000000022 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-008 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="44" InstanceRef="43" Name="217-3421-008 Rev1_26" PersistentId="26" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="4.8148248609680896e-034 3.4694469519536157e-018 -1 0 0.11298336088264274 0.99359688010966629 3.4472316671671039e-018 0 0.99359688010966629 -0.11298336088264274 -3.9198977703575978e-019 0 -3.8011847361345397 1.0808618892723731 4.1275000000000022 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:31:49" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-008 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="46" Name="217-3421-009 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-009 Rev1.ipt" OriginalFilePath="H:\217-3421-009 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="23" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-009 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.337412" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="3.80519" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.337412" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="45" InstanceRef="46" Name="217-3421-009 Rev1_27" PersistentId="27" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1.6619143516646102e-016 1.4633149585842136e-017 -1 0 -0.027744994592731415 0.99961503353793635 1.001653584396549e-017 0 0.99961503353793635 0.027744994592731415 1.6653345369377353e-016 0 3.5289457216442872 -3.9910546236876052 0.63500000000000012 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-009 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.337412" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="3.80519" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.337412" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="47" InstanceRef="46" Name="217-3421-009 Rev1_28" PersistentId="28" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1.6619143516646102e-016 1.4633149585842136e-017 -1 0 -0.027744994592731415 0.99961503353793635 1.001653584396549e-017 0 0.99961503353793635 0.027744994592731415 1.6653345369377353e-016 0 -2.5400000000000014 4.0690800000000005 0.63500000000000001 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-009 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.337412" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="3.80519" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.337412" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="48" InstanceRef="46" Name="217-3421-009 Rev1_29" PersistentId="29" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1.6619143516646102e-016 1.4633149585842136e-017 -1 0 -0.027744994592731415 0.99961503353793635 1.001653584396549e-017 0 0.99961503353793635 0.027744994592731415 1.6653345369377353e-016 0 2.533645898095843 3.8150774395105134 0.63499999999999934 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-009 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.337412" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="3.80519" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.337412" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="49" InstanceRef="46" Name="217-3421-009 Rev1_30" PersistentId="30" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1.6619143516646102e-016 1.4633149585842136e-017 -1 0 -0.027744994592731415 0.99961503353793635 1.001653584396549e-017 0 0.99961503353793635 0.027744994592731415 1.6653345369377353e-016 0 -3.5289457216442903 -3.9910546236876061 0.63499999999999956 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-009 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.337412" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="3.80519" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.337412" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="51" Name="217-3421-010 Rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-010 Rev1.ipt" OriginalFilePath="H:\217-3421-010 Rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="25" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <RepItemID PersistentId="17" Layer="65535" Style="25" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-010 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.350162" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="6.20841" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.350162" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="50" InstanceRef="51" Name="217-3421-010 Rev1_31" PersistentId="31" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-0.081132461857406302 0.99670332779265691 1.1102230246251565e-016 0 4.6320636441934643e-017 1.1516005468352298e-016 -1 0 -0.99670332779265691 -0.081132461857406302 -5.5511151231257827e-017 0 5.714999999999999 -4.7040800000000011 2.6020852139652106e-016 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-010 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.350162" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="6.20841" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.350162" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="52" InstanceRef="51" Name="217-3421-010 Rev1_32" PersistentId="32" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.0077264076283139593 -0.99997015086709529 -1.0485055063724277e-018 0 -1.3456171541273132e-017 9.4456583439916199e-019 -1 0 0.99997015086709529 0.0077264076283139593 -1.3448471785552061e-017 0 -5.714999999999999 -4.7040800000000011 -2.5815092026644358e-016 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-010 Rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.350162" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="6.20841" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.350162" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="54" Name="217-3421-011 Rev2_97633A200" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-011 Rev2_97633A200.ipt" OriginalFilePath="H:\217-3421-011 Rev2_97633A200.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="3" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-011 Rev2_97633A200" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0543619" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="2.08606" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0543619" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="53" InstanceRef="54" Name="217-3421-011 Rev2_97633A200_33" PersistentId="33" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-1.3877787807814503e-017 -2.5422275265911508e-032 -1 0 0.71768661098187825 0.69636623153147392 -9.9599024997160378e-018 0 0.69636623153147392 -0.71768661098187825 -9.6640227977212018e-018 0 5.9924287754142804e-018 -4.7040800000000003 -0.044450000000000052 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-011 Rev2_97633A200" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0543619" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="2.08606" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0543619" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="56" Name="217-2614-002_98430A132" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-2614-002_98430A132.ipt" OriginalFilePath="H:\217-2614-002_98430A132.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="3" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-002_98430A132" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0359409" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="2.32502" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0359409" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="55" InstanceRef="56" Name="217-2614-002_98430A132_34" PersistentId="34" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="3.6500964270429332e-017 1.9351477241674226e-016 -1 0 0.78762479017465392 0.61615516706616413 1.4798419125287799e-016 0 0.61615516706616413 -0.78762479017465392 -1.2992677428231006e-016 0 -0.0031770509520788735 3.9420787197552558 2.6352000000000011 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-002_98430A132" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0359409" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="2.32502" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0359409" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="57" InstanceRef="56" Name="217-2614-002_98430A132_35" PersistentId="35" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="2.8821699482249789e-017 1.1373465818847274e-016 -1 0 0.4191058932570591 0.9079373603047749 1.153432894375026e-016 0 0.9079373603047749 -0.4191058932570591 -2.1498567766954786e-017 0 3.663879581747763 -1.4546412399116933 2.6352000000000002 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-002_98430A132" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0359409" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="2.32502" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0359409" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="58" InstanceRef="56" Name="217-2614-002_98430A132_36" PersistentId="36" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="-1.3877787807814457e-017 1.3877787807814457e-016 -1 0 0.34343725479988774 0.93917562362718776 1.2557065084228811e-016 0 0.93917562362718776 -0.34343725479988774 -6.0695173493081413e-017 0 -3.6638795817477634 -1.4546412399116939 2.6352000000000002 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-002_98430A132" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0359409" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="2.32502" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0359409" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="60" Name="217-2761-001 rev1" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-2761-001 rev1.ipt" OriginalFilePath="H:\217-2761-001 rev1.ipt" ModellerType="30" ProductLoadStatus="4" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <PartDefinition>
+                <RepItemID PersistentId="2" Layer="65535" Style="3" Behaviour="1">
+                    <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                    <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+                </RepItemID>
+                <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+                <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+            </PartDefinition>
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2761-001 rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0782832" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="1.6285" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0782832" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="59" InstanceRef="60" Name="217-2761-001 rev1_37" PersistentId="37" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.99858794636846959 -0.053123566969872034 3.9288970865499611e-032 0 0.053123566969872034 0.99858794636846959 1.1097501558524662e-016 0 -5.8953886724254808e-018 -1.1081831291148033e-016 1 0 3.6840665371963146 -1.0751778202916762 1.6100000000000012 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2761-001 rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0782832" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="1.6285" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0782832" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="61" InstanceRef="60" Name="217-2761-001 rev1_38" PersistentId="38" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.9985879463684697 0.053123566969871319 3.9751194052152548e-031 0 -0.053123566969871319 0.9985879463684697 1.661026010316774e-016 0 8.823962649775733e-018 -1.6586805525068402e-016 1 0 -3.6840665371963173 -1.0751778202916762 1.6100000000000012 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2761-001 rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0782832" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="1.6285" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0782832" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="62" InstanceRef="60" Name="217-2761-001 rev1_39" PersistentId="39" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="0.050000504033363508 0.9987491925385521 -1.0278488151071334e-017 0 -0.9987491925385521 0.050000504033363508 -1.0265631741399569e-017 0 -9.7388618243664287e-018 1.0778918502690444e-017 1.0000000000000002 0 0.37634764221257 3.9230785282225789 1.6100000000000012 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2761-001 rev1" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0782832" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="1.6285" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0782832" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="63" InstanceRef="56" Name="217-2614-002_98430A132_40" PersistentId="40" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="3.6500964270429332e-017 1.9351477241674226e-016 -1 0 0.78762479017465392 0.61615516706616413 1.4798419125287799e-016 0 0.61615516706616413 -0.78762479017465392 -1.2992677428231006e-016 0 3.6638795817477625 -1.4546412399116928 0.62859999999999983 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-002_98430A132" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0359409" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="2.32502" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0359409" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="64" InstanceRef="56" Name="217-2614-002_98430A132_41" PersistentId="41" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="4.1784920021019223e-017 1.9668959791571552e-016 -1 0 0.91381094108248528 0.40613983301067946 1.1806699753989034e-016 0 0.40613983301067946 -0.91381094108248528 -1.6276658613279428e-016 0 -0.0031770509520790283 3.9420787197552576 0.62860000000000082 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-002_98430A132" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0359409" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="2.32502" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0359409" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="65" InstanceRef="56" Name="217-2614-002_98430A132_42" PersistentId="42" Layer="65535" Style="2" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="3.6656433774782129e-017 1.9363541835940826e-016 -1 0 0.79241996620325783 0.6099758988373456 1.471602283734703e-016 0 0.6099758988373456 -0.79241996620325783 -1.3108103053217162e-016 0 -3.6638795817477665 -1.4546412399116944 0.62859999999999983 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Fri 2016-11-11 00:34:48" />
+                <UserValue Title="Keywords" Type="String" Value="217-2614-002_98430A132" />
+                <UserValue Title="kDensityDesignTrackingProperties" Type="Real" Value="1" />
+                <UserValue Title="kMassDesignTrackingProperties" Type="Real" Value="0.0359409" />
+                <UserValue Title="kSurfaceAreaDesignTrackingProperties" Type="Real" Value="2.32502" />
+                <UserValue Title="kVolumeDesignTrackingProperties" Type="Real" Value="0.0359409" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Author" Type="String" Value="663531" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+                <UserValue Title="Number of Characters" Type="Int" Value="60" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="1000" />
+        </ProductOccurence>
+        <ProductOccurence Id="1" Name="217-3421-STEP.iam" Layer="65535" Style="65535" Behaviour="1" FilePath="c:\tempstorage\3530508423131989\217-3421-STEP.iam" OriginalFilePath="H:\217-3421-STEP.iam" Children="2 4 6 7 9 11 12 13 15 17 19 21 22 23 25 27 29 31 33 34 36 37 39 41 42 44 45 47 48 49 50 52 53 55 57 58 59 61 62 63 64 65" ModellerType="30" ProductLoadStatus="0" ProductFlag="0" Unit="10" DensityVolumeUnit="1.63871e-005" DensityMassUnit="0.453592" UnitFromCAD="1">
+            <Transformation RelativeTransfo="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1" />
+            <UserData Title="SummaryInformation" />
+            <UserData Title="DocumentSummaryInformation" />
+            <UserData Title="UserDefinedProperties" />
+            <UserData Title="InventorDesignTrackingProperties">
+                <UserValue Title="Property Set Name" Type="String" Value="Design Tracking Properties" />
+                <UserValue Title="Creation Date" Type="String" Value="Tue 2013-12-10 18:56:29" />
+                <UserValue Title="Keywords" Type="String" Value="217-3421-STEP" />
+            </UserData>
+            <UserData Title="InventorUserDefinedPropertiesCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor User Defined Properties" />
+                <UserValue Title="Sending System" Type="String" Value="SolidWorks 2013" />
+                <UserValue Title="Preprocessor" Type="String" Value="SwSTEP 2.0" />
+            </UserData>
+            <UserData Title="InventorSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Summary Information" />
+                <UserValue Title="Title" Type="String" Value="217-3421-STEP.STEP" />
+            </UserData>
+            <UserData Title="InventorPrivateModelInformation">
+                <UserValue Title="Property Set Name" Type="String" Value="_Private Model Information" />
+            </UserData>
+            <UserData />
+            <UserData Title="InventorDocumentSummaryInformationCoded">
+                <UserValue Title="Property Set Name" Type="String" Value="Inventor Document Summary Information" />
+            </UserData>
+            <A3DMiscMaterialPropertiesData m_dDensity="-1" />
+        </ProductOccurence>
+    </ModelFile>
+</Root>
