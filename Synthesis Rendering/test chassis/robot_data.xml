@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RobotData>
+  <DriverPractice>
+    <Mode0>
+      <Gamepiece id="Boulder 2016" />
+      <IntakeNode id="node_0.bxda" />
+      <ReleaseNode id="node_0.bxda" />
+      <ReleasePosition x="0" y="0" z="0" />
+      <ReleaseVelocity x="0" y="0" z="0" />
+    </Mode0>
+    <Mode1>
+      <Gamepiece id="Triangle 2011" />
+      <IntakeNode id="node_0.bxda" />
+      <ReleaseNode id="node_0.bxda" />
+      <ReleasePosition x="-0.0648923442" y="0.08703215" z="1.68592669E-06" />
+      <ReleaseVelocity x="0" y="0" z="0" />
+    </Mode1>
+    <Mode2>
+      <Gamepiece id="Yoga Ball 2014" />
+      <IntakeNode id="node_0.bxda" />
+      <ReleaseNode id="node_0.bxda" />
+      <ReleasePosition x="0" y="0" z="0" />
+      <ReleaseVelocity x="0" y="0" z="0" />
+    </Mode2>
+    <Mode3>
+      <Gamepiece id="Power Cube 2018" />
+      <IntakeNode id="node_10.bxda" />
+      <ReleaseNode id="node_10.bxda" />
+      <ReleasePosition x="4.96208668E-06" y="-0.120866396" z="0.298727274" />
+      <ReleaseVelocity x="4.09999847" y="0" z="0" />
+    </Mode3>
+    <Mode4>
+      <Gamepiece id="balls" />
+      <IntakeNode id="node_0.bxda" />
+      <ReleaseNode id="node_0.bxda" />
+      <ReleasePosition x="0" y="0" z="0" />
+      <ReleaseVelocity x="0" y="0" z="0" />
+    </Mode4>
+  </DriverPractice>
+</RobotData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RobotData>
+  <DriverPractice>
+    <Mode0>
+      <Gamepiece id="Power Cells" />
+      <IntakeNode id="node_0.bxda" />
+      <ReleaseNode id="node_0.bxda" />
+      <ReleasePosition x="0.267182738" y="0.6650569" z="1.61975622E-05" />
+      <ReleaseVelocity x="8.199995" y="-39" z="88" />
+    </Mode0>
+  </DriverPractice>
+</RobotData>
